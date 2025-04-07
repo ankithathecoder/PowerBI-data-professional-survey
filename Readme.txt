@@ -4,12 +4,12 @@ This project is a Power BI dashboard built using a dataset from a survey of data
 
 📁 Project Structure
 
-This repository includes  
--original dataset (data_set.xlsx) 
--the transformed data used in Power BI (transformed_data.xlsx),= 
--the Power BI project file (Full_project.pbix) 
--screenshot of the final dashboard (dashboard.png) 
--with this README file documenting the project.
+This repository includes:
+- The original dataset: `data_set.xlsx`
+- The transformed data used in Power BI: `transformed_data.xlsx`
+- The Power BI project file: `Full_project.pbix`
+- A screenshot of the final dashboard: `dashboard.png`
+- This README file documenting the project.
 
 🔧 Tools Used
 
